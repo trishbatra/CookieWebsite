@@ -312,8 +312,13 @@ a{
     }
     .card-div{
         display: grid;
-        grid-template-columns: repeat(1, 400px);
-        padding: 15px;
+        grid-template-columns: repeat(1, 450px);
+    }
+    .card-list{
+        font-size: smaller;
+    }
+    .card-buttons{
+        margin-bottom: 15px;
     }
     .about{
         height: auto;
@@ -334,6 +339,12 @@ a{
         margin: 0px;
         font-size: xx-large;
         margin-left: 27px;
+    }
+    .card-list{
+        font-size: small;
+    }
+    .card-buttons{
+        margin-bottom: 15px;
     }
     .nav-items{
         font-size: large;

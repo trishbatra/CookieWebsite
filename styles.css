@@ -313,6 +313,7 @@ a{
     .card-div{
         display: grid;
         grid-template-columns: repeat(1, 400px);
+        padding: 15px;
     }
     .about{
         height: auto;
